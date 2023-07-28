@@ -2,4 +2,4 @@
 data/
 ./__pycache_/
 *.yaml
-__pycache/
+__pycache__/
